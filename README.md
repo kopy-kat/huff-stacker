@@ -70,7 +70,7 @@ Use alt comments (default is false):
 use-alt: [--alt]
 ```
 
-Note: this setting will add alternative comments. For example, instead of adding `call(param1, param2, ..., param7)` it will add `successBool` to the stack comments. You can change the alternative comments in the `src/opcodes.rs` file.
+Note: this setting will add alternative comments. For example, instead of adding `call(param1, param2, ..., param7)` it will add `successBool` to the stack comments. You can change the alternative comments in the `src/opcodes.rs` file
 
 #### Example
 
